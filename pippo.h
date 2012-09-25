@@ -1,5 +1,5 @@
 #include <stdio.h>
 
-#define VERSION "$Id$"
+#define VERSION "$Format:%H$"
 
 #define ALTRO_STUFFO 123
