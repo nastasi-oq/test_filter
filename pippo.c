@@ -2,10 +2,10 @@
    Old school version id: $Id$
 */
 
-#include <stdio.h>
+#include "pippo.h"
 
 main()
 {
-    printf("Hello world\n");
+    printf("Hello world [%s]\n", VERSION);
 }
 
