@@ -1,5 +1,5 @@
 #include <stdio.h>
 
-#define VERSION "$Format:%T$"
+#define VERSION "$Format:%d$"
 
 #define ALTRO_STUFFO 123
